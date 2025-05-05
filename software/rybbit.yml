@@ -1,0 +1,12 @@
+name: Rybbit
+website_url: https://rybbit.io/
+description: Next-gen Google Analytics replacement. Cookieless and lightweight web & product analytics for everyone.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+source_code_url: https://github.com/rybbit-io/rybbit
+demo_url: https://demo.rybbit.io/1
